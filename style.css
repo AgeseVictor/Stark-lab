@@ -135,6 +135,7 @@ padding-top: 15px;
     transition-duration: 1s;
     animation-name: learn;
     transition-delay: 0s,1s;
+    margin-left: 5px;
 }
 .mainlearn:hover .learn{
     /* margin-left: 300px; */
