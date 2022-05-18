@@ -144,8 +144,10 @@ padding-top: 15px;
     /* transform: rotate(10000deg); */
     color: black;
     font-weight: bold;
-    background-color: white;
+    background-color: gold;
     border: 2px gold solid;
+    box-shadow: 0px 0px 5px gold, 0px 0px 10px gold, 0px 0px 15px gold;
+
     /* background-color: gray; */
 
 }
@@ -199,6 +201,7 @@ padding-top: 15px;
 }
 #mainman:hover{
     transform: scale(1.2,1.2);
+    box-shadow: 0px 0px 5px white, 0px 0px 10px white, 0px 0px 15px white;
     /* transform: rotateX(150deg); */
 
     /* margin-left: 20px; */
